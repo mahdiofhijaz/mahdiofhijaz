@@ -1,12 +1,12 @@
 ### Hello there 👾
 
-I’m a computational scientist with expertise in molecular simulations and protein engineering , applying computational modeling across a range of disciplines and systems.
+I’m a computational scientist with expertise in molecular simulations and protein engineering, applying computational modeling across a range of disciplines and systems.
 
 * I'm currently working on allostery (long range communication) in proteins
-* If you are interested in collaborating on method development relating to protein motion and function, feel free to reach out!
+* Interested in collaborating on method development relating to protein motion and function?  Let’s connect.
 * When I'm not simulating proteins, you can find me at the peak of a mountain in Switzerland 🏔
 
-Alternatively, you can find me on [LinkedIn](https://www.linkedin.com/in/mahdi-hijazi/)
+You can also find me on [LinkedIn](https://www.linkedin.com/in/mahdi-hijazi/)
 
   
 <!--
