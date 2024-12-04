@@ -1,6 +1,6 @@
 ### Hello there 👾
 
-I’m a computational scientist with expertise in molecular simulations and protein engineering, applying modeling techniques across diverse disciplines and systems.
+I’m a computational scientist specialized in molecular simulations and protein engineering, applying modeling techniques across diverse disciplines and systems.
 
 * I'm currently working on allostery (long range communication) in proteins
 * Interested in collaborating on method development relating to protein motion and function?  Let’s connect
