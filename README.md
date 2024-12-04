@@ -4,7 +4,7 @@ I am a computational scientist with experience in molecular simulations and prot
 
 - I'm currently working on allostery (long range communication) in proteins
 - Looking to collaborate on method development to relate protein motion and function
-- When I'm not simulating proteins, you can find me at the top of a mountain in Switzerland 🏔
+- When I'm not simulating proteins, you can find me at the peak of a mountain in Switzerland 🏔
   
 <!--
 **mahdiofhijaz/mahdiofhijaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
